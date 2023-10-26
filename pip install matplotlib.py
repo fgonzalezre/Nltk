@@ -1,0 +1,10 @@
+pip install matplotlib
+pip install contractions
+pip install unidecode
+pip install num2words
+pip install pyspellchecker
+pip install demoji
+pip install beautifulsoup4
+pip install nltk
+pip install pandas
+pip install numpy
